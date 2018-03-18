@@ -1,0 +1,1 @@
+<?php echo e(Form::select('procedure_id',$procedure,'',['class'=>'form-control','placeholder'=>'Select Procedure','required'])); ?>
